@@ -1,0 +1,9 @@
+{
+  "name": "next15",
+  "efc": {
+    "enabled": true,
+    "builder": "pcg",
+    "spec": "1C2G",
+    "concurrency": 10
+  }
+}
